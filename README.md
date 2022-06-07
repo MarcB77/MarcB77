@@ -4,7 +4,6 @@
 - 🎓 Bachelor's Degree in Electrical Engineering
 - 🎓 Premaster Degree in Artificial Intelligence
 - 🧗🏼‍♂️ Active on Kaggle as Data scientist, to further improve my skills
-- I like plants 🌱🌱
 
 <!---
 MarcB77/MarcB77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
