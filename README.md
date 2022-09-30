@@ -2,8 +2,8 @@
 - 👀 I’m interested in AI and Blockchain Technology
 - 🎓 Master's Degree in Artificial Intelligence (VU Amsterdam)
 - 🎓 Premaster Degree in Artificial Intelligence (VU Amsterdam)
-- 🎓 Bachelor's Degree in Electrical Engineering
-- 🧗🏼‍♂️ Active on Kaggle as Data scientist, to further improve my skills
+- 🎓 Bachelor's Degree in Software and Electrical Engineering
+- 🧗🏼‍♂️ Active on Kaggle 
 
 - www.marcblomvliet.com
 <!---
